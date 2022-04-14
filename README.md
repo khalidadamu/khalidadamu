@@ -22,10 +22,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Khalid Shuaib Adamu
-- A Web developer
-- A Computer Science Undergraduate Student. 
-- Currently working on my personal portfolio and some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 💻 A Web developer
+- 👨‍🎓 A Computer Science Undergraduate Student. 
+- ☺️ Currently working on my personal portfolio and some of my cool side projects based on Web Development.
+- 📚 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
 
