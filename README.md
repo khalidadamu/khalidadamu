@@ -22,7 +22,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Khalid Adamu
-- A self proclaimed Frontend developer 
+- A  Frontend developer and also a self proclaimed Ui/Ux designer.
 - A Computer Scinece Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
