@@ -5,9 +5,9 @@
 ### I'm Khalid Shuaib Adamu
 - 💻 A Web developer.
 - 👨‍🎓 Undergraduate student in computer science.
-<!-- - 💼 I'm presently focusing on my own portfolio as well as some great Web Development side projects.
+- 💼 I'm presently focusing on my own portfolio as well as some great Web Development side projects.
 - ✍️ Currently, I'm on the lookout for work. I like learning and contributing in any way I can.
- -->
+
 
 
 <br><br>
