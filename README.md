@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
-### I'm Khalid Shuaib Adamu
+### I'm Khalid Adamu
 - 💻 A Web developer.
 - 👨‍🎓 Undergraduate student in computer science.
 - 💼 I'm presently focusing on my own portfolio as well as some great Web Development side projects.
