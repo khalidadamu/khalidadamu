@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+### <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
 ### I'm Khalid Adamu
 - 💻 A Web developer.
