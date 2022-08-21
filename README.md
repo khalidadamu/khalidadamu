@@ -1,13 +1,8 @@
+## Hi there 👋
 
+My name is Khalid, graduate of bachelor's degree in computer science from Kampala International University.
 
-### <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
-
-### I'm Khalid Adamu
-- 💻 A Web developer.
-- 👨‍🎓 Undergraduate student in computer science.
-- 💼 I'm presently focusing on my own portfolio as well as some great Web Development side projects.
-- ✍️ Currently, I'm on the lookout for work. I like learning and contributing in any way I can.
-
+My general interest revolves around web development in which I spark my passion for frontend dev.
 
 
 <br><br>
