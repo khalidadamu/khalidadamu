@@ -1,7 +1,15 @@
+
+
+
 # Hi I'm Khalid 👋
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-khalid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khalidadamu/)](https://www.linkedin.com/in/khalidadamu/)
 [![Gmail Badge](https://img.shields.io/badge/-khalidbox720-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khalidbox720@hotmail.com)](mailto:khalidbox720@hotmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-khalidadamu.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://github.com/khalidadamu)](https://github.com/khalidadamu)
+
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
 Welcome to my profile! I'm a Software Engineer working as front-end developer. Thank you for visiting and I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
 
