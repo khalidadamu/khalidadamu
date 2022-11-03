@@ -1,7 +1,7 @@
 
 
 
-# Hi I'm Khalid 👋
+# Hi I'm Khalid. 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-khalid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khalidadamu/)](https://www.linkedin.com/in/khalidadamu/)
