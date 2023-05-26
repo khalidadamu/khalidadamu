@@ -11,7 +11,8 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
-Welcome to my profile! I'm a Software Developer working as front-end developer.I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
+Welcome to my profile! I'm a Software Developer working as front-end developer.
+I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
 
 
 
