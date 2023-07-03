@@ -9,7 +9,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-khalidadamu.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://github.com/khalidadamu)](https://github.com/khalidadamu)
 
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+
 
 Welcome to my GitHub sanctuary!  I'm a front-end developer on a mission to create pixel-perfect magic. Currently learning Angular. 
 I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
