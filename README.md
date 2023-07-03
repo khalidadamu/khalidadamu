@@ -11,7 +11,8 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
-Welcome to my profile! I'm a Software Developer working as front-end developer.
+Welcome to my GitHub sanctuary!  I'm a front-end developer on a mission to create pixel-perfect magic. Join me on this coding adventure and let's turn ideas into stunning realities. 
+I'm currently diving deep into Angular, absorbing its nuances to create robust applications. 
 I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
 
 
@@ -27,9 +28,8 @@ I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
 
 
 
