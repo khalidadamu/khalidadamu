@@ -11,8 +11,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
-Welcome to my GitHub sanctuary!  I'm a front-end developer on a mission to create pixel-perfect magic. Join me on this coding adventure and let's turn ideas into stunning realities. 
-I'm currently diving deep into Angular, absorbing its nuances to create robust applications. 
+Welcome to my GitHub sanctuary!  I'm a front-end developer on a mission to create pixel-perfect magic. Currently learning Angular. 
 I'd love to [connect](https://www.linkedin.com/in/khalidadamu/)!
 
 
