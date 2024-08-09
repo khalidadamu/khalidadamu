@@ -3,4 +3,4 @@
 
 👋
 
-https://gifdb.com/gif/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.html?embed=true
+![lol](https://github.com/user-attachments/assets/809dbb32-84cd-4320-bf72-3641eb6528a3)
